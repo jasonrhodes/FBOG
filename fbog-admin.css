@@ -1,0 +1,92 @@
+.wrap {
+
+	margin-top: 40px;
+	margin-left: 40px;
+	font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Calibri, Helvetica, sans-serif;
+	font-size: 120%;
+}
+.wrap h2 {
+	font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Calibri, Helvetica, sans-serif;
+	font-style: normal;
+	font-size: 30px;
+	line-height: 40px;
+	color: #3B5B99;
+	padding: 0 0 15px 40px;
+	border-bottom: 1px solid #fff;
+	-webkit-box-shadow: 0 1px 0 #efefef;
+}
+.wrap .icon {
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 10px;
+}
+.option-content {
+	margin: 10px 0;
+		padding: 10px 0;
+	clear: both;
+	width: 650px;
+	float: left;
+	margin-right: 70px;
+}
+
+.for-developers {
+	float: left;
+	width: 300px;
+	padding: 0 25px 15px;
+	background-color: #e1e6f0;
+	margin-top: 1em;
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+	border-top: 1px solid #fff;
+}
+
+.wrap p, .wrap li, .wrap a {
+	font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Calibri, Helvetica, sans-serif;
+	font-size: 14px;
+}
+small {
+	color: #666;
+	font-style: italic;
+}
+
+pre, .pre {
+	font-family: 'Lucida Console', 'Courier', monospace;
+	font-size: 14px;
+	color: #006000;
+	font-weight: 500;
+}
+pre {
+	padding: 5px 10px;
+	background-color: #efefef;
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.2);
+	border-top: 1px solid #fff;
+}
+
+.form-table { margin-bottom: 15px; }
+.form-table th { padding-left: 0; padding-top: 8px; vertical-align: top; }
+
+.form-table input, .form-table textarea, .form-table select, .form-table option { width: 400px; }
+.form-table input[type='checkbox'], .form-table input[type='radio'] { width: auto; margin-right: 8px; }
+.form-table ul { list-style: none; margin: 0; padding-top: 8px; }
+
+input[type="submit"] { padding: 5px 20px; }
+
+.form-table small a, .form-table small {
+	color: #666;
+	font-size: 10px;
+	line-height: 150%;
+	font-style: normal;
+}
+
+.like-button-inline {
+	position: relative;
+	top: -3px;
+}
+
+
+.message {
+	padding: 10px;
+	margin-top: -5px;
+}
+.message-green {
+	background-color: #d6ebcc;
+}

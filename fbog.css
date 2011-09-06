@@ -1,0 +1,14 @@
+.fbog-share-line {
+	overflow: hidden;
+	height: 45px;
+}
+.fbog-like {
+	width: 250px;
+	float: left;
+}
+.st_sharethis { 
+	float: left; 
+	margin-right: 15px; 
+	position: relative;
+	top: 4px;
+}
